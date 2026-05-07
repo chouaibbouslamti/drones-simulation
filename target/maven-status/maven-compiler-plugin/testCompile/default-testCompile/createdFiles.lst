@@ -1,0 +1,4 @@
+com/drone/simulator/SimulatorBasicTest.class
+com/drone/simulator/concurrent/SimulatorConcurrentTest.class
+com/drone/simulator/client/DroneClientTest.class
+com/drone/simulator/server/DroneServerTest.class
