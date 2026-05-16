@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="7" failures="0" name="com.drone.simulator.concurrent.SimulatorConcurrentTest" time="2.9" errors="0" skipped="0">
+<testsuite tests="7" failures="0" name="com.drone.simulator.concurrent.SimulatorConcurrentTest" time="2.905" errors="0" skipped="0">
   <properties>
     <property name="jansi.mode" value="force"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
@@ -43,7 +43,7 @@
     <property name="java.class.path" value="/usr/share/maven/boot/plexus-classworlds-2.x.jar"/>
     <property name="java.vm.specification.version" value="21"/>
     <property name="sun.arch.data.model" value="64"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher package"/>
     <property name="java.home" value="/usr/lib/jvm/java-21-openjdk-amd64"/>
     <property name="user.language" value="en"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
@@ -58,11 +58,11 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.endian" value="little"/>
   </properties>
-  <testcase classname="com.drone.simulator.concurrent.SimulatorConcurrentTest" name="testDroneWorkerCreation" time="0.259"/>
-  <testcase classname="com.drone.simulator.concurrent.SimulatorConcurrentTest" name="testMultipleDronesConcurrent" time="0.083"/>
-  <testcase classname="com.drone.simulator.concurrent.SimulatorConcurrentTest" name="testConcurrentInitialization" time="0.004"/>
-  <testcase classname="com.drone.simulator.concurrent.SimulatorConcurrentTest" name="testConcurrentExecution" time="0.507"/>
-  <testcase classname="com.drone.simulator.concurrent.SimulatorConcurrentTest" name="testDisplayWorker" time="0.014"/>
-  <testcase classname="com.drone.simulator.concurrent.SimulatorConcurrentTest" name="testErrorHandling" time="0.002"/>
-  <testcase classname="com.drone.simulator.concurrent.SimulatorConcurrentTest" name="testSynchronization" time="2.031"/>
+  <testcase classname="com.drone.simulator.concurrent.SimulatorConcurrentTest" name="testDroneWorkerCreation" time="0.18"/>
+  <testcase classname="com.drone.simulator.concurrent.SimulatorConcurrentTest" name="testMultipleDronesConcurrent" time="0.087"/>
+  <testcase classname="com.drone.simulator.concurrent.SimulatorConcurrentTest" name="testConcurrentInitialization" time="0.045"/>
+  <testcase classname="com.drone.simulator.concurrent.SimulatorConcurrentTest" name="testConcurrentExecution" time="0.535"/>
+  <testcase classname="com.drone.simulator.concurrent.SimulatorConcurrentTest" name="testDisplayWorker" time="0.029"/>
+  <testcase classname="com.drone.simulator.concurrent.SimulatorConcurrentTest" name="testErrorHandling" time="0.004"/>
+  <testcase classname="com.drone.simulator.concurrent.SimulatorConcurrentTest" name="testSynchronization" time="2.025"/>
 </testsuite>

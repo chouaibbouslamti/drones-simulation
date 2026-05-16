@@ -1,14 +1,11 @@
+/home/chou/drone/src/main/java/com/drone/simulator/concurrent/SimulatorConcurrent.java
 /home/chou/drone/src/main/java/com/drone/simulator/DroneSimulatorMain.java
 /home/chou/drone/src/main/java/com/drone/simulator/server/DroneServer.java
 /home/chou/drone/src/main/java/com/drone/simulator/concurrent/DroneWorker.java
 /home/chou/drone/src/main/java/com/drone/simulator/client/DroneClient.java
 /home/chou/drone/src/main/java/com/drone/simulator/SimulatorBasic.java
-/home/chou/drone/src/main/java/com/drone/simulator/visual/CommandEditorVisualizer.java
-/home/chou/drone/src/main/java/com/drone/simulator/visual/DroneVisualizer.java
-/home/chou/drone/src/main/java/com/drone/simulator/ConfigurationReader.java
-/home/chou/drone/src/main/java/com/drone/simulator/Drone.java
-/home/chou/drone/src/main/java/com/drone/simulator/concurrent/SimulatorConcurrent.java
 /home/chou/drone/src/main/java/com/drone/simulator/SimulatorMap.java
-/home/chou/drone/src/main/java/com/drone/simulator/visual/InteractiveDroneVisualizer.java
 /home/chou/drone/src/main/java/com/drone/simulator/server/ServerConnectionHandler.java
+/home/chou/drone/src/main/java/com/drone/simulator/ConfigurationReader.java
 /home/chou/drone/src/main/java/com/drone/simulator/concurrent/DisplayWorker.java
+/home/chou/drone/src/main/java/com/drone/simulator/Drone.java

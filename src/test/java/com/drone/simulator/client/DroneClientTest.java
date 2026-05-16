@@ -146,7 +146,6 @@ public class DroneClientTest {
         
         try (java.io.PrintWriter writer = new java.io.PrintWriter("src/test/resources/client_test.txt")) {
             writer.println("10 10");
-            writer.println("2");
             writer.println("0 0 N MM");
             writer.println("5 5 S RR");
         }
